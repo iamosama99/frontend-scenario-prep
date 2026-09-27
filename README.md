@@ -127,13 +127,13 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 - [x] [Design an Image/Video Gallery With Lazy Loading](phase-04-frontend-system-design/06-design-image-video-gallery.md)
 - [x] [Design a Collaborative Document Editor (OT/CRDT Basics)](phase-04-frontend-system-design/07-design-collaborative-document-editor.md)
 - [x] [Design a Live Comments/Reactions Feed](phase-04-frontend-system-design/08-design-live-comments-reactions-feed.md)
-- [ ] [Design a Resumable, Chunked File Uploader](phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md)
-- [ ] [Design a Configurable Dashboard With Widgets](phase-04-frontend-system-design/10-design-configurable-dashboard-widgets.md)
-- [ ] [Design a Ticket/Seat Booking UI](phase-04-frontend-system-design/11-design-ticket-seat-booking-ui.md)
-- [ ] [Design a Polling/Voting Widget](phase-04-frontend-system-design/12-design-polling-voting-widget.md)
-- [ ] [Design an Instagram Stories-style Component](phase-04-frontend-system-design/13-design-stories-component.md)
-- [ ] [Design a Schema-driven Form Builder](phase-04-frontend-system-design/14-design-schema-driven-form-builder.md)
-- [ ] [Design a Component Library / Design System From Scratch](phase-04-frontend-system-design/15-design-a-component-library-design-system.md)
+- [x] [Design a Resumable, Chunked File Uploader](phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md)
+- [x] [Design a Configurable Dashboard With Widgets](phase-04-frontend-system-design/10-design-configurable-dashboard-widgets.md)
+- [x] [Design a Ticket/Seat Booking UI](phase-04-frontend-system-design/11-design-ticket-seat-booking-ui.md)
+- [x] [Design a Polling/Voting Widget](phase-04-frontend-system-design/12-design-polling-voting-widget.md)
+- [x] [Design an Instagram Stories-style Component](phase-04-frontend-system-design/13-design-stories-component.md)
+- [x] [Design a Schema-driven Form Builder](phase-04-frontend-system-design/14-design-schema-driven-form-builder.md)
+- [x] [Design a Component Library / Design System From Scratch](phase-04-frontend-system-design/15-design-a-component-library-design-system.md)
 
 ---
 
@@ -141,14 +141,14 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > "Here's a metric that's bad. Walk me through your diagnosis." Systematic process over tool trivia.
 
-- [ ] [Diagnosing Poor LCP (e.g., "LCP is 4.2s")](phase-05-performance-debugging/01-diagnosing-poor-lcp.md)
-- [ ] [Janky Scroll/Animation — Find and Fix](phase-05-performance-debugging/02-janky-scroll-animation.md)
-- [ ] [Bundle Size Regression After a Release](phase-05-performance-debugging/03-bundle-size-regression-after-release.md)
-- [ ] [Production Memory Leak Triage](phase-05-performance-debugging/04-production-memory-leak-triage.md)
-- [ ] [Slow Initial Load on 3G / Low-end Device](phase-05-performance-debugging/05-slow-load-low-end-device-3g.md)
-- [ ] [Redundant Network Requests on a Page](phase-05-performance-debugging/06-redundant-network-requests-on-a-page.md)
-- [ ] [Long Tasks Blocking the Main Thread](phase-05-performance-debugging/07-long-tasks-blocking-main-thread.md)
-- [ ] [High INP / Unresponsive Interactions](phase-05-performance-debugging/08-high-inp-unresponsive-interactions.md)
+- [x] [Diagnosing Poor LCP (e.g., "LCP is 4.2s")](phase-05-performance-debugging/01-diagnosing-poor-lcp.md)
+- [x] [Janky Scroll/Animation — Find and Fix](phase-05-performance-debugging/02-janky-scroll-animation.md)
+- [x] [Bundle Size Regression After a Release](phase-05-performance-debugging/03-bundle-size-regression-after-release.md)
+- [x] [Production Memory Leak Triage](phase-05-performance-debugging/04-production-memory-leak-triage.md)
+- [x] [Slow Initial Load on 3G / Low-end Device](phase-05-performance-debugging/05-slow-load-low-end-device-3g.md)
+- [x] [Redundant Network Requests on a Page](phase-05-performance-debugging/06-redundant-network-requests-on-a-page.md)
+- [x] [Long Tasks Blocking the Main Thread](phase-05-performance-debugging/07-long-tasks-blocking-main-thread.md)
+- [x] [High INP / Unresponsive Interactions](phase-05-performance-debugging/08-high-inp-unresponsive-interactions.md)
 
 ---
 

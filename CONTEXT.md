@@ -250,20 +250,20 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Diagnosing Poor LCP (e.g., "LCP is 4.2s") | `phase-05-performance-debugging/01-diagnosing-poor-lcp.md` | 👉 **Next** |
-| 2 | Janky Scroll/Animation — Find and Fix | `phase-05-performance-debugging/02-janky-scroll-animation.md` | ⬜ |
-| 3 | Bundle Size Regression After a Release | `phase-05-performance-debugging/03-bundle-size-regression-after-release.md` | ⬜ |
-| 4 | Production Memory Leak Triage | `phase-05-performance-debugging/04-production-memory-leak-triage.md` | ⬜ |
-| 5 | Slow Initial Load on 3G / Low-end Device | `phase-05-performance-debugging/05-slow-load-low-end-device-3g.md` | ⬜ |
-| 6 | Redundant Network Requests on a Page | `phase-05-performance-debugging/06-redundant-network-requests-on-a-page.md` | ⬜ |
-| 7 | Long Tasks Blocking the Main Thread | `phase-05-performance-debugging/07-long-tasks-blocking-main-thread.md` | ⬜ |
-| 8 | High INP / Unresponsive Interactions | `phase-05-performance-debugging/08-high-inp-unresponsive-interactions.md` | ⬜ |
+| 1 | Diagnosing Poor LCP (e.g., "LCP is 4.2s") | `phase-05-performance-debugging/01-diagnosing-poor-lcp.md` | ✅ |
+| 2 | Janky Scroll/Animation — Find and Fix | `phase-05-performance-debugging/02-janky-scroll-animation.md` | ✅ |
+| 3 | Bundle Size Regression After a Release | `phase-05-performance-debugging/03-bundle-size-regression-after-release.md` | ✅ |
+| 4 | Production Memory Leak Triage | `phase-05-performance-debugging/04-production-memory-leak-triage.md` | ✅ |
+| 5 | Slow Initial Load on 3G / Low-end Device | `phase-05-performance-debugging/05-slow-load-low-end-device-3g.md` | ✅ |
+| 6 | Redundant Network Requests on a Page | `phase-05-performance-debugging/06-redundant-network-requests-on-a-page.md` | ✅ |
+| 7 | Long Tasks Blocking the Main Thread | `phase-05-performance-debugging/07-long-tasks-blocking-main-thread.md` | ✅ |
+| 8 | High INP / Unresponsive Interactions | `phase-05-performance-debugging/08-high-inp-unresponsive-interactions.md` | ✅ |
 
 ### Phase 6 — State Management & Architecture Trade-offs (8 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Where Does This State Live? (Server/Client/URL/Form Sort) | `phase-06-state-architecture-tradeoffs/01-where-does-this-state-live.md` | ⬜ |
+| 1 | Where Does This State Live? (Server/Client/URL/Form Sort) | `phase-06-state-architecture-tradeoffs/01-where-does-this-state-live.md` | 👉 **Next** |
 | 2 | State Design: Filters + Saved Views + Real-time Counters | `phase-06-state-architecture-tradeoffs/02-state-design-filters-saved-views-realtime-counters.md` | ⬜ |
 | 3 | Optimistic Update With Rollback | `phase-06-state-architecture-tradeoffs/03-optimistic-update-with-rollback.md` | ⬜ |
 | 4 | Undo/Redo — Architecture Decision | `phase-06-state-architecture-tradeoffs/04-undo-redo-architecture-decision.md` | ⬜ |
