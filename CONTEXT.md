@@ -230,15 +230,15 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Design a News Feed (Facebook/LinkedIn-style) | `phase-04-frontend-system-design/01-design-a-news-feed.md` | 👉 **Next** |
-| 2 | Design an Autocomplete / Search-as-you-type System | `phase-04-frontend-system-design/02-design-autocomplete-search-system.md` | ⬜ |
-| 3 | Design an E-commerce Product Listing + Filters Page | `phase-04-frontend-system-design/03-design-ecommerce-plp-filters.md` | ⬜ |
-| 4 | Design a Chat Application (WhatsApp Web-style) | `phase-04-frontend-system-design/04-design-chat-application.md` | ⬜ |
-| 5 | Design a Notification System (In-app + Push) | `phase-04-frontend-system-design/05-design-notification-system.md` | ⬜ |
-| 6 | Design an Image/Video Gallery With Lazy Loading | `phase-04-frontend-system-design/06-design-image-video-gallery.md` | ⬜ |
-| 7 | Design a Collaborative Document Editor (OT/CRDT Basics) | `phase-04-frontend-system-design/07-design-collaborative-document-editor.md` | ⬜ |
-| 8 | Design a Live Comments/Reactions Feed | `phase-04-frontend-system-design/08-design-live-comments-reactions-feed.md` | ⬜ |
-| 9 | Design a Resumable, Chunked File Uploader | `phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md` | ⬜ |
+| 1 | Design a News Feed (Facebook/LinkedIn-style) | `phase-04-frontend-system-design/01-design-a-news-feed.md` | ✅ |
+| 2 | Design an Autocomplete / Search-as-you-type System | `phase-04-frontend-system-design/02-design-autocomplete-search-system.md` | ✅ |
+| 3 | Design an E-commerce Product Listing + Filters Page | `phase-04-frontend-system-design/03-design-ecommerce-plp-filters.md` | ✅ |
+| 4 | Design a Chat Application (WhatsApp Web-style) | `phase-04-frontend-system-design/04-design-chat-application.md` | ✅ |
+| 5 | Design a Notification System (In-app + Push) | `phase-04-frontend-system-design/05-design-notification-system.md` | ✅ |
+| 6 | Design an Image/Video Gallery With Lazy Loading | `phase-04-frontend-system-design/06-design-image-video-gallery.md` | ✅ |
+| 7 | Design a Collaborative Document Editor (OT/CRDT Basics) | `phase-04-frontend-system-design/07-design-collaborative-document-editor.md` | ✅ |
+| 8 | Design a Live Comments/Reactions Feed | `phase-04-frontend-system-design/08-design-live-comments-reactions-feed.md` | ✅ |
+| 9 | Design a Resumable, Chunked File Uploader | `phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md` | 👉 **Next** |
 | 10 | Design a Configurable Dashboard With Widgets | `phase-04-frontend-system-design/10-design-configurable-dashboard-widgets.md` | ⬜ |
 | 11 | Design a Ticket/Seat Booking UI | `phase-04-frontend-system-design/11-design-ticket-seat-booking-ui.md` | ⬜ |
 | 12 | Design a Polling/Voting Widget | `phase-04-frontend-system-design/12-design-polling-voting-widget.md` | ⬜ |

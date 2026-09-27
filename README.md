@@ -119,14 +119,14 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > The whiteboard round. Requirements gathering, component/data architecture, and the trade-offs at scale.
 
-- [ ] [Design a News Feed (Facebook/LinkedIn-style)](phase-04-frontend-system-design/01-design-a-news-feed.md)
-- [ ] [Design an Autocomplete / Search-as-you-type System](phase-04-frontend-system-design/02-design-autocomplete-search-system.md)
-- [ ] [Design an E-commerce Product Listing + Filters Page](phase-04-frontend-system-design/03-design-ecommerce-plp-filters.md)
-- [ ] [Design a Chat Application (WhatsApp Web-style)](phase-04-frontend-system-design/04-design-chat-application.md)
-- [ ] [Design a Notification System (In-app + Push)](phase-04-frontend-system-design/05-design-notification-system.md)
-- [ ] [Design an Image/Video Gallery With Lazy Loading](phase-04-frontend-system-design/06-design-image-video-gallery.md)
-- [ ] [Design a Collaborative Document Editor (OT/CRDT Basics)](phase-04-frontend-system-design/07-design-collaborative-document-editor.md)
-- [ ] [Design a Live Comments/Reactions Feed](phase-04-frontend-system-design/08-design-live-comments-reactions-feed.md)
+- [x] [Design a News Feed (Facebook/LinkedIn-style)](phase-04-frontend-system-design/01-design-a-news-feed.md)
+- [x] [Design an Autocomplete / Search-as-you-type System](phase-04-frontend-system-design/02-design-autocomplete-search-system.md)
+- [x] [Design an E-commerce Product Listing + Filters Page](phase-04-frontend-system-design/03-design-ecommerce-plp-filters.md)
+- [x] [Design a Chat Application (WhatsApp Web-style)](phase-04-frontend-system-design/04-design-chat-application.md)
+- [x] [Design a Notification System (In-app + Push)](phase-04-frontend-system-design/05-design-notification-system.md)
+- [x] [Design an Image/Video Gallery With Lazy Loading](phase-04-frontend-system-design/06-design-image-video-gallery.md)
+- [x] [Design a Collaborative Document Editor (OT/CRDT Basics)](phase-04-frontend-system-design/07-design-collaborative-document-editor.md)
+- [x] [Design a Live Comments/Reactions Feed](phase-04-frontend-system-design/08-design-live-comments-reactions-feed.md)
 - [ ] [Design a Resumable, Chunked File Uploader](phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md)
 - [ ] [Design a Configurable Dashboard With Widgets](phase-04-frontend-system-design/10-design-configurable-dashboard-widgets.md)
 - [ ] [Design a Ticket/Seat Booking UI](phase-04-frontend-system-design/11-design-ticket-seat-booking-ui.md)
