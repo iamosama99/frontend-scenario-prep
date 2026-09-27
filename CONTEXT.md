@@ -263,33 +263,33 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Where Does This State Live? (Server/Client/URL/Form Sort) | `phase-06-state-architecture-tradeoffs/01-where-does-this-state-live.md` | 👉 **Next** |
-| 2 | State Design: Filters + Saved Views + Real-time Counters | `phase-06-state-architecture-tradeoffs/02-state-design-filters-saved-views-realtime-counters.md` | ⬜ |
-| 3 | Optimistic Update With Rollback | `phase-06-state-architecture-tradeoffs/03-optimistic-update-with-rollback.md` | ⬜ |
-| 4 | Undo/Redo — Architecture Decision | `phase-06-state-architecture-tradeoffs/04-undo-redo-architecture-decision.md` | ⬜ |
-| 5 | Cross-tab State Sync | `phase-06-state-architecture-tradeoffs/05-cross-tab-state-sync.md` | ⬜ |
-| 6 | Conflict Resolution for Concurrent Edits | `phase-06-state-architecture-tradeoffs/06-conflict-resolution-concurrent-edits.md` | ⬜ |
-| 7 | Redux → Lightweight State — Migration Trade-offs | `phase-06-state-architecture-tradeoffs/07-redux-to-lightweight-state-migration-tradeoffs.md` | ⬜ |
-| 8 | Feature-flag-driven Rollout Design | `phase-06-state-architecture-tradeoffs/08-feature-flag-driven-rollout-design.md` | ⬜ |
+| 1 | Where Does This State Live? (Server/Client/URL/Form Sort) | `phase-06-state-architecture-tradeoffs/01-where-does-this-state-live.md` | ✅ |
+| 2 | State Design: Filters + Saved Views + Real-time Counters | `phase-06-state-architecture-tradeoffs/02-state-design-filters-saved-views-realtime-counters.md` | ✅ |
+| 3 | Optimistic Update With Rollback | `phase-06-state-architecture-tradeoffs/03-optimistic-update-with-rollback.md` | ✅ |
+| 4 | Undo/Redo — Architecture Decision | `phase-06-state-architecture-tradeoffs/04-undo-redo-architecture-decision.md` | ✅ |
+| 5 | Cross-tab State Sync | `phase-06-state-architecture-tradeoffs/05-cross-tab-state-sync.md` | ✅ |
+| 6 | Conflict Resolution for Concurrent Edits | `phase-06-state-architecture-tradeoffs/06-conflict-resolution-concurrent-edits.md` | ✅ |
+| 7 | Redux → Lightweight State — Migration Trade-offs | `phase-06-state-architecture-tradeoffs/07-redux-to-lightweight-state-migration-tradeoffs.md` | ✅ |
+| 8 | Feature-flag-driven Rollout Design | `phase-06-state-architecture-tradeoffs/08-feature-flag-driven-rollout-design.md` | ✅ |
 
 ### Phase 7 — Networking & Data Layer Scenarios (8 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Data-fetching Layer for N Related Resources (Waterfalls → Parallelization) | `phase-07-networking-data-layer/01-data-fetching-layer-for-related-resources.md` | ⬜ |
-| 2 | Cache Invalidation Strategy | `phase-07-networking-data-layer/02-cache-invalidation-strategy.md` | ⬜ |
-| 3 | Pagination Data Model: Cursor vs. Offset | `phase-07-networking-data-layer/03-pagination-data-model-cursor-vs-offset.md` | ⬜ |
-| 4 | WebSocket Reconnection & Backoff | `phase-07-networking-data-layer/04-websocket-reconnection-backoff.md` | ⬜ |
-| 5 | Offline-first Sync With Conflict Resolution | `phase-07-networking-data-layer/05-offline-first-sync-conflict-resolution.md` | ⬜ |
-| 6 | Streaming LLM Response UI: SSE vs. WebSocket | `phase-07-networking-data-layer/06-streaming-llm-response-ui-sse-vs-websocket.md` | ⬜ |
-| 7 | Graceful Degradation for a Flaky Third-party API | `phase-07-networking-data-layer/07-graceful-degradation-flaky-third-party-api.md` | ⬜ |
-| 8 | GraphQL Client-side N+1 / Over-fetching | `phase-07-networking-data-layer/08-graphql-client-n-plus-1-overfetching.md` | ⬜ |
+| 1 | Data-fetching Layer for N Related Resources (Waterfalls → Parallelization) | `phase-07-networking-data-layer/01-data-fetching-layer-for-related-resources.md` | ✅ |
+| 2 | Cache Invalidation Strategy | `phase-07-networking-data-layer/02-cache-invalidation-strategy.md` | ✅ |
+| 3 | Pagination Data Model: Cursor vs. Offset | `phase-07-networking-data-layer/03-pagination-data-model-cursor-vs-offset.md` | ✅ |
+| 4 | WebSocket Reconnection & Backoff | `phase-07-networking-data-layer/04-websocket-reconnection-backoff.md` | ✅ |
+| 5 | Offline-first Sync With Conflict Resolution | `phase-07-networking-data-layer/05-offline-first-sync-conflict-resolution.md` | ✅ |
+| 6 | Streaming LLM Response UI: SSE vs. WebSocket | `phase-07-networking-data-layer/06-streaming-llm-response-ui-sse-vs-websocket.md` | ✅ |
+| 7 | Graceful Degradation for a Flaky Third-party API | `phase-07-networking-data-layer/07-graceful-degradation-flaky-third-party-api.md` | ✅ |
+| 8 | GraphQL Client-side N+1 / Over-fetching | `phase-07-networking-data-layer/08-graphql-client-n-plus-1-overfetching.md` | ✅ |
 
 ### Phase 8 — CSS & Layout Debugging Scenarios (8 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Holy Grail Layout | `phase-08-css-layout-debugging/01-holy-grail-layout.md` | ⬜ |
+| 1 | Holy Grail Layout | `phase-08-css-layout-debugging/01-holy-grail-layout.md` | 👉 **Next** |
 | 2 | Sticky Header Broken on Mobile Safari | `phase-08-css-layout-debugging/02-sticky-header-broken-mobile-safari.md` | ⬜ |
 | 3 | CLS From Late-loading Images & Fonts | `phase-08-css-layout-debugging/03-cls-from-late-loading-images-fonts.md` | ⬜ |
 | 4 | Responsive Grid for an Unknown Item Count | `phase-08-css-layout-debugging/04-responsive-grid-unknown-item-count.md` | ⬜ |

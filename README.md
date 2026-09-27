@@ -156,14 +156,14 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > "Where does this state live?" — the question that reveals whether you have architecture instincts or just API knowledge.
 
-- [ ] [Where Does This State Live? (Server/Client/URL/Form Sort)](phase-06-state-architecture-tradeoffs/01-where-does-this-state-live.md)
-- [ ] [State Design: Filters + Saved Views + Real-time Counters](phase-06-state-architecture-tradeoffs/02-state-design-filters-saved-views-realtime-counters.md)
-- [ ] [Optimistic Update With Rollback](phase-06-state-architecture-tradeoffs/03-optimistic-update-with-rollback.md)
-- [ ] [Undo/Redo — Architecture Decision](phase-06-state-architecture-tradeoffs/04-undo-redo-architecture-decision.md)
-- [ ] [Cross-tab State Sync](phase-06-state-architecture-tradeoffs/05-cross-tab-state-sync.md)
-- [ ] [Conflict Resolution for Concurrent Edits](phase-06-state-architecture-tradeoffs/06-conflict-resolution-concurrent-edits.md)
-- [ ] [Redux → Lightweight State — Migration Trade-offs](phase-06-state-architecture-tradeoffs/07-redux-to-lightweight-state-migration-tradeoffs.md)
-- [ ] [Feature-flag-driven Rollout Design](phase-06-state-architecture-tradeoffs/08-feature-flag-driven-rollout-design.md)
+- [x] [Where Does This State Live? (Server/Client/URL/Form Sort)](phase-06-state-architecture-tradeoffs/01-where-does-this-state-live.md)
+- [x] [State Design: Filters + Saved Views + Real-time Counters](phase-06-state-architecture-tradeoffs/02-state-design-filters-saved-views-realtime-counters.md)
+- [x] [Optimistic Update With Rollback](phase-06-state-architecture-tradeoffs/03-optimistic-update-with-rollback.md)
+- [x] [Undo/Redo — Architecture Decision](phase-06-state-architecture-tradeoffs/04-undo-redo-architecture-decision.md)
+- [x] [Cross-tab State Sync](phase-06-state-architecture-tradeoffs/05-cross-tab-state-sync.md)
+- [x] [Conflict Resolution for Concurrent Edits](phase-06-state-architecture-tradeoffs/06-conflict-resolution-concurrent-edits.md)
+- [x] [Redux → Lightweight State — Migration Trade-offs](phase-06-state-architecture-tradeoffs/07-redux-to-lightweight-state-migration-tradeoffs.md)
+- [x] [Feature-flag-driven Rollout Design](phase-06-state-architecture-tradeoffs/08-feature-flag-driven-rollout-design.md)
 
 ---
 
@@ -171,14 +171,14 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > Data fetching, caching, and resilience when the network is slow, flaky, or adversarial.
 
-- [ ] [Data-fetching Layer for N Related Resources (Waterfalls → Parallelization)](phase-07-networking-data-layer/01-data-fetching-layer-for-related-resources.md)
-- [ ] [Cache Invalidation Strategy](phase-07-networking-data-layer/02-cache-invalidation-strategy.md)
-- [ ] [Pagination Data Model: Cursor vs. Offset](phase-07-networking-data-layer/03-pagination-data-model-cursor-vs-offset.md)
-- [ ] [WebSocket Reconnection & Backoff](phase-07-networking-data-layer/04-websocket-reconnection-backoff.md)
-- [ ] [Offline-first Sync With Conflict Resolution](phase-07-networking-data-layer/05-offline-first-sync-conflict-resolution.md)
-- [ ] [Streaming LLM Response UI: SSE vs. WebSocket](phase-07-networking-data-layer/06-streaming-llm-response-ui-sse-vs-websocket.md)
-- [ ] [Graceful Degradation for a Flaky Third-party API](phase-07-networking-data-layer/07-graceful-degradation-flaky-third-party-api.md)
-- [ ] [GraphQL Client-side N+1 / Over-fetching](phase-07-networking-data-layer/08-graphql-client-n-plus-1-overfetching.md)
+- [x] [Data-fetching Layer for N Related Resources (Waterfalls → Parallelization)](phase-07-networking-data-layer/01-data-fetching-layer-for-related-resources.md)
+- [x] [Cache Invalidation Strategy](phase-07-networking-data-layer/02-cache-invalidation-strategy.md)
+- [x] [Pagination Data Model: Cursor vs. Offset](phase-07-networking-data-layer/03-pagination-data-model-cursor-vs-offset.md)
+- [x] [WebSocket Reconnection & Backoff](phase-07-networking-data-layer/04-websocket-reconnection-backoff.md)
+- [x] [Offline-first Sync With Conflict Resolution](phase-07-networking-data-layer/05-offline-first-sync-conflict-resolution.md)
+- [x] [Streaming LLM Response UI: SSE vs. WebSocket](phase-07-networking-data-layer/06-streaming-llm-response-ui-sse-vs-websocket.md)
+- [x] [Graceful Degradation for a Flaky Third-party API](phase-07-networking-data-layer/07-graceful-degradation-flaky-third-party-api.md)
+- [x] [GraphQL Client-side N+1 / Over-fetching](phase-07-networking-data-layer/08-graphql-client-n-plus-1-overfetching.md)
 
 ---
 
