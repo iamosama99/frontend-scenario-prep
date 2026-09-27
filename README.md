@@ -79,22 +79,22 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > "Build this widget in 40 minutes." Tests component API design and edge-case coverage, not just markup.
 
-- [ ] [Autocomplete / Typeahead — Debounced & Cancellable](phase-02-component-machine-coding/01-autocomplete-typeahead-debounced-cancellable.md)
-- [ ] [Infinite Scroll List](phase-02-component-machine-coding/02-infinite-scroll-list.md)
-- [ ] [Virtualized List (Windowing) From Scratch](phase-02-component-machine-coding/03-virtualized-list-windowing-from-scratch.md)
-- [ ] [Accessible Modal With Focus Trap](phase-02-component-machine-coding/04-accessible-modal-focus-trap.md)
-- [ ] [Accessible Tabs — Keyboard Navigation](phase-02-component-machine-coding/05-accessible-tabs-keyboard-nav.md)
-- [ ] [Accordion Component](phase-02-component-machine-coding/06-accordion-component.md)
-- [ ] [Accessible Combobox / Dropdown](phase-02-component-machine-coding/07-accessible-combobox-dropdown.md)
-- [ ] [Multi-step Form Wizard With Validation](phase-02-component-machine-coding/08-multi-step-form-wizard-validation.md)
-- [ ] [Data Table — Sort, Filter, Paginate](phase-02-component-machine-coding/09-data-table-sort-filter-paginate.md)
-- [ ] [Drag-and-Drop Sortable List](phase-02-component-machine-coding/10-drag-and-drop-sortable-list.md)
-- [ ] [Toast / Notification Queue System](phase-02-component-machine-coding/11-toast-notification-queue-system.md)
-- [ ] [Star Rating Component](phase-02-component-machine-coding/12-star-rating-component.md)
-- [ ] [OTP / PIN Input](phase-02-component-machine-coding/13-otp-pin-input.md)
-- [ ] [Image Carousel / Gallery](phase-02-component-machine-coding/14-image-carousel-gallery.md)
-- [ ] [Undo/Redo Stack for an Editor UI](phase-02-component-machine-coding/15-undo-redo-stack-editor.md)
-- [ ] [Nested Comments — Recursive Tree Rendering](phase-02-component-machine-coding/16-nested-comments-recursive-tree.md)
+- [x] [Autocomplete / Typeahead — Debounced & Cancellable](phase-02-component-machine-coding/01-autocomplete-typeahead-debounced-cancellable.md)
+- [x] [Infinite Scroll List](phase-02-component-machine-coding/02-infinite-scroll-list.md)
+- [x] [Virtualized List (Windowing) From Scratch](phase-02-component-machine-coding/03-virtualized-list-windowing-from-scratch.md)
+- [x] [Accessible Modal With Focus Trap](phase-02-component-machine-coding/04-accessible-modal-focus-trap.md)
+- [x] [Accessible Tabs — Keyboard Navigation](phase-02-component-machine-coding/05-accessible-tabs-keyboard-nav.md)
+- [x] [Accordion Component](phase-02-component-machine-coding/06-accordion-component.md)
+- [x] [Accessible Combobox / Dropdown](phase-02-component-machine-coding/07-accessible-combobox-dropdown.md)
+- [x] [Multi-step Form Wizard With Validation](phase-02-component-machine-coding/08-multi-step-form-wizard-validation.md)
+- [x] [Data Table — Sort, Filter, Paginate](phase-02-component-machine-coding/09-data-table-sort-filter-paginate.md)
+- [x] [Drag-and-Drop Sortable List](phase-02-component-machine-coding/10-drag-and-drop-sortable-list.md)
+- [x] [Toast / Notification Queue System](phase-02-component-machine-coding/11-toast-notification-queue-system.md)
+- [x] [Star Rating Component](phase-02-component-machine-coding/12-star-rating-component.md)
+- [x] [OTP / PIN Input](phase-02-component-machine-coding/13-otp-pin-input.md)
+- [x] [Image Carousel / Gallery](phase-02-component-machine-coding/14-image-carousel-gallery.md)
+- [x] [Undo/Redo Stack for an Editor UI](phase-02-component-machine-coding/15-undo-redo-stack-editor.md)
+- [x] [Nested Comments — Recursive Tree Rendering](phase-02-component-machine-coding/16-nested-comments-recursive-tree.md)
 
 ---
 

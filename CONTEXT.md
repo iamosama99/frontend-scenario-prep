@@ -194,28 +194,28 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Autocomplete / Typeahead — Debounced & Cancellable | `phase-02-component-machine-coding/01-autocomplete-typeahead-debounced-cancellable.md` | 👉 **Next** |
-| 2 | Infinite Scroll List | `phase-02-component-machine-coding/02-infinite-scroll-list.md` | ⬜ |
-| 3 | Virtualized List (Windowing) From Scratch | `phase-02-component-machine-coding/03-virtualized-list-windowing-from-scratch.md` | ⬜ |
-| 4 | Accessible Modal With Focus Trap | `phase-02-component-machine-coding/04-accessible-modal-focus-trap.md` | ⬜ |
-| 5 | Accessible Tabs — Keyboard Navigation | `phase-02-component-machine-coding/05-accessible-tabs-keyboard-nav.md` | ⬜ |
-| 6 | Accordion Component | `phase-02-component-machine-coding/06-accordion-component.md` | ⬜ |
-| 7 | Accessible Combobox / Dropdown | `phase-02-component-machine-coding/07-accessible-combobox-dropdown.md` | ⬜ |
-| 8 | Multi-step Form Wizard With Validation | `phase-02-component-machine-coding/08-multi-step-form-wizard-validation.md` | ⬜ |
-| 9 | Data Table — Sort, Filter, Paginate | `phase-02-component-machine-coding/09-data-table-sort-filter-paginate.md` | ⬜ |
-| 10 | Drag-and-Drop Sortable List | `phase-02-component-machine-coding/10-drag-and-drop-sortable-list.md` | ⬜ |
-| 11 | Toast / Notification Queue System | `phase-02-component-machine-coding/11-toast-notification-queue-system.md` | ⬜ |
-| 12 | Star Rating Component | `phase-02-component-machine-coding/12-star-rating-component.md` | ⬜ |
-| 13 | OTP / PIN Input | `phase-02-component-machine-coding/13-otp-pin-input.md` | ⬜ |
-| 14 | Image Carousel / Gallery | `phase-02-component-machine-coding/14-image-carousel-gallery.md` | ⬜ |
-| 15 | Undo/Redo Stack for an Editor UI | `phase-02-component-machine-coding/15-undo-redo-stack-editor.md` | ⬜ |
-| 16 | Nested Comments — Recursive Tree Rendering | `phase-02-component-machine-coding/16-nested-comments-recursive-tree.md` | ⬜ |
+| 1 | Autocomplete / Typeahead — Debounced & Cancellable | `phase-02-component-machine-coding/01-autocomplete-typeahead-debounced-cancellable.md` | ✅ |
+| 2 | Infinite Scroll List | `phase-02-component-machine-coding/02-infinite-scroll-list.md` | ✅ |
+| 3 | Virtualized List (Windowing) From Scratch | `phase-02-component-machine-coding/03-virtualized-list-windowing-from-scratch.md` | ✅ |
+| 4 | Accessible Modal With Focus Trap | `phase-02-component-machine-coding/04-accessible-modal-focus-trap.md` | ✅ |
+| 5 | Accessible Tabs — Keyboard Navigation | `phase-02-component-machine-coding/05-accessible-tabs-keyboard-nav.md` | ✅ |
+| 6 | Accordion Component | `phase-02-component-machine-coding/06-accordion-component.md` | ✅ |
+| 7 | Accessible Combobox / Dropdown | `phase-02-component-machine-coding/07-accessible-combobox-dropdown.md` | ✅ |
+| 8 | Multi-step Form Wizard With Validation | `phase-02-component-machine-coding/08-multi-step-form-wizard-validation.md` | ✅ |
+| 9 | Data Table — Sort, Filter, Paginate | `phase-02-component-machine-coding/09-data-table-sort-filter-paginate.md` | ✅ |
+| 10 | Drag-and-Drop Sortable List | `phase-02-component-machine-coding/10-drag-and-drop-sortable-list.md` | ✅ |
+| 11 | Toast / Notification Queue System | `phase-02-component-machine-coding/11-toast-notification-queue-system.md` | ✅ |
+| 12 | Star Rating Component | `phase-02-component-machine-coding/12-star-rating-component.md` | ✅ |
+| 13 | OTP / PIN Input | `phase-02-component-machine-coding/13-otp-pin-input.md` | ✅ |
+| 14 | Image Carousel / Gallery | `phase-02-component-machine-coding/14-image-carousel-gallery.md` | ✅ |
+| 15 | Undo/Redo Stack for an Editor UI | `phase-02-component-machine-coding/15-undo-redo-stack-editor.md` | ✅ |
+| 16 | Nested Comments — Recursive Tree Rendering | `phase-02-component-machine-coding/16-nested-comments-recursive-tree.md` | ✅ |
 
 ### Phase 3 — React Debugging & Behavioral Scenarios (10 scenarios) — React + TS starts here
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Why Is This Component Re-rendering Constantly? | `phase-03-react-debugging-scenarios/01-why-is-this-re-rendering.md` | ⬜ |
+| 1 | Why Is This Component Re-rendering Constantly? | `phase-03-react-debugging-scenarios/01-why-is-this-re-rendering.md` | 👉 **Next** |
 | 2 | Stale Closure in useEffect/useCallback | `phase-03-react-debugging-scenarios/02-stale-closure-useeffect-usecallback.md` | ⬜ |
 | 3 | Race Condition in Fetch (Autocomplete Overwrite Bug) | `phase-03-react-debugging-scenarios/03-race-condition-fetch-autocomplete.md` | ⬜ |
 | 4 | Memory Leak From Uncleaned Subscriptions | `phase-03-react-debugging-scenarios/04-memory-leak-uncleaned-subscriptions.md` | ⬜ |
