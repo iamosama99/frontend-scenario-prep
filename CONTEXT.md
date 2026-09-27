@@ -215,22 +215,22 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Why Is This Component Re-rendering Constantly? | `phase-03-react-debugging-scenarios/01-why-is-this-re-rendering.md` | 👉 **Next** |
-| 2 | Stale Closure in useEffect/useCallback | `phase-03-react-debugging-scenarios/02-stale-closure-useeffect-usecallback.md` | ⬜ |
-| 3 | Race Condition in Fetch (Autocomplete Overwrite Bug) | `phase-03-react-debugging-scenarios/03-race-condition-fetch-autocomplete.md` | ⬜ |
-| 4 | Memory Leak From Uncleaned Subscriptions | `phase-03-react-debugging-scenarios/04-memory-leak-uncleaned-subscriptions.md` | ⬜ |
-| 5 | Context Causing App-wide Re-renders | `phase-03-react-debugging-scenarios/05-context-causing-app-wide-re-renders.md` | ⬜ |
-| 6 | Key Prop Misuse — State Bleeding Between List Items | `phase-03-react-debugging-scenarios/06-key-prop-misuse-state-bleed.md` | ⬜ |
-| 7 | Controlled vs. Uncontrolled Input Bug | `phase-03-react-debugging-scenarios/07-controlled-vs-uncontrolled-input-bug.md` | ⬜ |
-| 8 | Infinite Render Loop | `phase-03-react-debugging-scenarios/08-infinite-render-loop.md` | ⬜ |
-| 9 | Prop Drilling Causing Stale Sibling State | `phase-03-react-debugging-scenarios/09-prop-drilling-stale-sibling-state.md` | ⬜ |
-| 10 | Error Boundary Not Catching an Error — Why | `phase-03-react-debugging-scenarios/10-error-boundary-not-catching-error.md` | ⬜ |
+| 1 | Why Is This Component Re-rendering Constantly? | `phase-03-react-debugging-scenarios/01-why-is-this-re-rendering.md` | ✅ |
+| 2 | Stale Closure in useEffect/useCallback | `phase-03-react-debugging-scenarios/02-stale-closure-useeffect-usecallback.md` | ✅ |
+| 3 | Race Condition in Fetch (Autocomplete Overwrite Bug) | `phase-03-react-debugging-scenarios/03-race-condition-fetch-autocomplete.md` | ✅ |
+| 4 | Memory Leak From Uncleaned Subscriptions | `phase-03-react-debugging-scenarios/04-memory-leak-uncleaned-subscriptions.md` | ✅ |
+| 5 | Context Causing App-wide Re-renders | `phase-03-react-debugging-scenarios/05-context-causing-app-wide-re-renders.md` | ✅ |
+| 6 | Key Prop Misuse — State Bleeding Between List Items | `phase-03-react-debugging-scenarios/06-key-prop-misuse-state-bleed.md` | ✅ |
+| 7 | Controlled vs. Uncontrolled Input Bug | `phase-03-react-debugging-scenarios/07-controlled-vs-uncontrolled-input-bug.md` | ✅ |
+| 8 | Infinite Render Loop | `phase-03-react-debugging-scenarios/08-infinite-render-loop.md` | ✅ |
+| 9 | Prop Drilling Causing Stale Sibling State | `phase-03-react-debugging-scenarios/09-prop-drilling-stale-sibling-state.md` | ✅ |
+| 10 | Error Boundary Not Catching an Error — Why | `phase-03-react-debugging-scenarios/10-error-boundary-not-catching-error.md` | ✅ |
 
 ### Phase 4 — Frontend System Design (15 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Design a News Feed (Facebook/LinkedIn-style) | `phase-04-frontend-system-design/01-design-a-news-feed.md` | ⬜ |
+| 1 | Design a News Feed (Facebook/LinkedIn-style) | `phase-04-frontend-system-design/01-design-a-news-feed.md` | 👉 **Next** |
 | 2 | Design an Autocomplete / Search-as-you-type System | `phase-04-frontend-system-design/02-design-autocomplete-search-system.md` | ⬜ |
 | 3 | Design an E-commerce Product Listing + Filters Page | `phase-04-frontend-system-design/03-design-ecommerce-plp-filters.md` | ⬜ |
 | 4 | Design a Chat Application (WhatsApp Web-style) | `phase-04-frontend-system-design/04-design-chat-application.md` | ⬜ |

@@ -102,16 +102,16 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > "Here's a component. It's misbehaving. Find out why." The single biggest senior-vs-junior signal.
 
-- [ ] [Why Is This Component Re-rendering Constantly?](phase-03-react-debugging-scenarios/01-why-is-this-re-rendering.md)
-- [ ] [Stale Closure in useEffect/useCallback](phase-03-react-debugging-scenarios/02-stale-closure-useeffect-usecallback.md)
-- [ ] [Race Condition in Fetch (Autocomplete Overwrite Bug)](phase-03-react-debugging-scenarios/03-race-condition-fetch-autocomplete.md)
-- [ ] [Memory Leak From Uncleaned Subscriptions](phase-03-react-debugging-scenarios/04-memory-leak-uncleaned-subscriptions.md)
-- [ ] [Context Causing App-wide Re-renders](phase-03-react-debugging-scenarios/05-context-causing-app-wide-re-renders.md)
-- [ ] [Key Prop Misuse — State Bleeding Between List Items](phase-03-react-debugging-scenarios/06-key-prop-misuse-state-bleed.md)
-- [ ] [Controlled vs. Uncontrolled Input Bug](phase-03-react-debugging-scenarios/07-controlled-vs-uncontrolled-input-bug.md)
-- [ ] [Infinite Render Loop](phase-03-react-debugging-scenarios/08-infinite-render-loop.md)
-- [ ] [Prop Drilling Causing Stale Sibling State](phase-03-react-debugging-scenarios/09-prop-drilling-stale-sibling-state.md)
-- [ ] [Error Boundary Not Catching an Error — Why](phase-03-react-debugging-scenarios/10-error-boundary-not-catching-error.md)
+- [x] [Why Is This Component Re-rendering Constantly?](phase-03-react-debugging-scenarios/01-why-is-this-re-rendering.md)
+- [x] [Stale Closure in useEffect/useCallback](phase-03-react-debugging-scenarios/02-stale-closure-useeffect-usecallback.md)
+- [x] [Race Condition in Fetch (Autocomplete Overwrite Bug)](phase-03-react-debugging-scenarios/03-race-condition-fetch-autocomplete.md)
+- [x] [Memory Leak From Uncleaned Subscriptions](phase-03-react-debugging-scenarios/04-memory-leak-uncleaned-subscriptions.md)
+- [x] [Context Causing App-wide Re-renders](phase-03-react-debugging-scenarios/05-context-causing-app-wide-re-renders.md)
+- [x] [Key Prop Misuse — State Bleeding Between List Items](phase-03-react-debugging-scenarios/06-key-prop-misuse-state-bleed.md)
+- [x] [Controlled vs. Uncontrolled Input Bug](phase-03-react-debugging-scenarios/07-controlled-vs-uncontrolled-input-bug.md)
+- [x] [Infinite Render Loop](phase-03-react-debugging-scenarios/08-infinite-render-loop.md)
+- [x] [Prop Drilling Causing Stale Sibling State](phase-03-react-debugging-scenarios/09-prop-drilling-stale-sibling-state.md)
+- [x] [Error Boundary Not Catching an Error — Why](phase-03-react-debugging-scenarios/10-error-boundary-not-catching-error.md)
 
 ---
 
