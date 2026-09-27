@@ -238,19 +238,19 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 | 6 | Design an Image/Video Gallery With Lazy Loading | `phase-04-frontend-system-design/06-design-image-video-gallery.md` | ✅ |
 | 7 | Design a Collaborative Document Editor (OT/CRDT Basics) | `phase-04-frontend-system-design/07-design-collaborative-document-editor.md` | ✅ |
 | 8 | Design a Live Comments/Reactions Feed | `phase-04-frontend-system-design/08-design-live-comments-reactions-feed.md` | ✅ |
-| 9 | Design a Resumable, Chunked File Uploader | `phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md` | 👉 **Next** |
-| 10 | Design a Configurable Dashboard With Widgets | `phase-04-frontend-system-design/10-design-configurable-dashboard-widgets.md` | ⬜ |
-| 11 | Design a Ticket/Seat Booking UI | `phase-04-frontend-system-design/11-design-ticket-seat-booking-ui.md` | ⬜ |
-| 12 | Design a Polling/Voting Widget | `phase-04-frontend-system-design/12-design-polling-voting-widget.md` | ⬜ |
-| 13 | Design an Instagram Stories-style Component | `phase-04-frontend-system-design/13-design-stories-component.md` | ⬜ |
-| 14 | Design a Schema-driven Form Builder | `phase-04-frontend-system-design/14-design-schema-driven-form-builder.md` | ⬜ |
-| 15 | Design a Component Library / Design System From Scratch | `phase-04-frontend-system-design/15-design-a-component-library-design-system.md` | ⬜ |
+| 9 | Design a Resumable, Chunked File Uploader | `phase-04-frontend-system-design/09-design-resumable-chunked-file-uploader.md` | ✅ |
+| 10 | Design a Configurable Dashboard With Widgets | `phase-04-frontend-system-design/10-design-configurable-dashboard-widgets.md` | ✅ |
+| 11 | Design a Ticket/Seat Booking UI | `phase-04-frontend-system-design/11-design-ticket-seat-booking-ui.md` | ✅ |
+| 12 | Design a Polling/Voting Widget | `phase-04-frontend-system-design/12-design-polling-voting-widget.md` | ✅ |
+| 13 | Design an Instagram Stories-style Component | `phase-04-frontend-system-design/13-design-stories-component.md` | ✅ |
+| 14 | Design a Schema-driven Form Builder | `phase-04-frontend-system-design/14-design-schema-driven-form-builder.md` | ✅ |
+| 15 | Design a Component Library / Design System From Scratch | `phase-04-frontend-system-design/15-design-a-component-library-design-system.md` | ✅ |
 
 ### Phase 5 — Performance Debugging Scenarios (8 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Diagnosing Poor LCP (e.g., "LCP is 4.2s") | `phase-05-performance-debugging/01-diagnosing-poor-lcp.md` | ⬜ |
+| 1 | Diagnosing Poor LCP (e.g., "LCP is 4.2s") | `phase-05-performance-debugging/01-diagnosing-poor-lcp.md` | 👉 **Next** |
 | 2 | Janky Scroll/Animation — Find and Fix | `phase-05-performance-debugging/02-janky-scroll-animation.md` | ⬜ |
 | 3 | Bundle Size Regression After a Release | `phase-05-performance-debugging/03-bundle-size-regression-after-release.md` | ⬜ |
 | 4 | Production Memory Leak Triage | `phase-05-performance-debugging/04-production-memory-leak-triage.md` | ⬜ |
