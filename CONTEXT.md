@@ -289,20 +289,20 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Holy Grail Layout | `phase-08-css-layout-debugging/01-holy-grail-layout.md` | 👉 **Next** |
-| 2 | Sticky Header Broken on Mobile Safari | `phase-08-css-layout-debugging/02-sticky-header-broken-mobile-safari.md` | ⬜ |
-| 3 | CLS From Late-loading Images & Fonts | `phase-08-css-layout-debugging/03-cls-from-late-loading-images-fonts.md` | ⬜ |
-| 4 | Responsive Grid for an Unknown Item Count | `phase-08-css-layout-debugging/04-responsive-grid-unknown-item-count.md` | ⬜ |
-| 5 | Z-index / Stacking Context Bug | `phase-08-css-layout-debugging/05-z-index-stacking-context-bug.md` | ⬜ |
-| 6 | RTL Layout Breaking | `phase-08-css-layout-debugging/06-rtl-layout-breaking.md` | ⬜ |
-| 7 | Nested Scroll Container Overflow Trap | `phase-08-css-layout-debugging/07-nested-scroll-container-overflow-trap.md` | ⬜ |
-| 8 | Dark Mode & Print Stylesheet Edge Cases | `phase-08-css-layout-debugging/08-dark-mode-print-stylesheet-edge-cases.md` | ⬜ |
+| 1 | Holy Grail Layout | `phase-08-css-layout-debugging/01-holy-grail-layout.md` | ✅ |
+| 2 | Sticky Header Broken on Mobile Safari | `phase-08-css-layout-debugging/02-sticky-header-broken-mobile-safari.md` | ✅ |
+| 3 | CLS From Late-loading Images & Fonts | `phase-08-css-layout-debugging/03-cls-from-late-loading-images-fonts.md` | ✅ |
+| 4 | Responsive Grid for an Unknown Item Count | `phase-08-css-layout-debugging/04-responsive-grid-unknown-item-count.md` | ✅ |
+| 5 | Z-index / Stacking Context Bug | `phase-08-css-layout-debugging/05-z-index-stacking-context-bug.md` | ✅ |
+| 6 | RTL Layout Breaking | `phase-08-css-layout-debugging/06-rtl-layout-breaking.md` | ✅ |
+| 7 | Nested Scroll Container Overflow Trap | `phase-08-css-layout-debugging/07-nested-scroll-container-overflow-trap.md` | ✅ |
+| 8 | Dark Mode & Print Stylesheet Edge Cases | `phase-08-css-layout-debugging/08-dark-mode-print-stylesheet-edge-cases.md` | ✅ |
 
 ### Phase 9 — Accessibility Scenarios (7 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Accessible Modal — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/01-accessible-modal-scenario.md` | ⬜ |
+| 1 | Accessible Modal — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/01-accessible-modal-scenario.md` | 👉 **Next** |
 | 2 | Accessible Combobox — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/02-accessible-combobox-scenario.md` | ⬜ |
 | 3 | Live Region Announcements for Async Updates | `phase-09-accessibility-scenarios/03-live-region-async-announcements.md` | ⬜ |
 | 4 | Keyboard Trap Bug — Find and Fix | `phase-09-accessibility-scenarios/04-keyboard-trap-bug-fix.md` | ⬜ |

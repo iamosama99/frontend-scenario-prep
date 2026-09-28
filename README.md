@@ -186,14 +186,14 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > "It looks fine on my machine." Layout bugs that only show up in specific browsers, viewports, or content states.
 
-- [ ] [Holy Grail Layout](phase-08-css-layout-debugging/01-holy-grail-layout.md)
-- [ ] [Sticky Header Broken on Mobile Safari](phase-08-css-layout-debugging/02-sticky-header-broken-mobile-safari.md)
-- [ ] [CLS From Late-loading Images & Fonts](phase-08-css-layout-debugging/03-cls-from-late-loading-images-fonts.md)
-- [ ] [Responsive Grid for an Unknown Item Count](phase-08-css-layout-debugging/04-responsive-grid-unknown-item-count.md)
-- [ ] [Z-index / Stacking Context Bug](phase-08-css-layout-debugging/05-z-index-stacking-context-bug.md)
-- [ ] [RTL Layout Breaking](phase-08-css-layout-debugging/06-rtl-layout-breaking.md)
-- [ ] [Nested Scroll Container Overflow Trap](phase-08-css-layout-debugging/07-nested-scroll-container-overflow-trap.md)
-- [ ] [Dark Mode & Print Stylesheet Edge Cases](phase-08-css-layout-debugging/08-dark-mode-print-stylesheet-edge-cases.md)
+- [x] [Holy Grail Layout](phase-08-css-layout-debugging/01-holy-grail-layout.md)
+- [x] [Sticky Header Broken on Mobile Safari](phase-08-css-layout-debugging/02-sticky-header-broken-mobile-safari.md)
+- [x] [CLS From Late-loading Images & Fonts](phase-08-css-layout-debugging/03-cls-from-late-loading-images-fonts.md)
+- [x] [Responsive Grid for an Unknown Item Count](phase-08-css-layout-debugging/04-responsive-grid-unknown-item-count.md)
+- [x] [Z-index / Stacking Context Bug](phase-08-css-layout-debugging/05-z-index-stacking-context-bug.md)
+- [x] [RTL Layout Breaking](phase-08-css-layout-debugging/06-rtl-layout-breaking.md)
+- [x] [Nested Scroll Container Overflow Trap](phase-08-css-layout-debugging/07-nested-scroll-container-overflow-trap.md)
+- [x] [Dark Mode & Print Stylesheet Edge Cases](phase-08-css-layout-debugging/08-dark-mode-print-stylesheet-edge-cases.md)
 
 ---
 
