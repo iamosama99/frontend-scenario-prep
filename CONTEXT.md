@@ -302,19 +302,19 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Accessible Modal — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/01-accessible-modal-scenario.md` | 👉 **Next** |
-| 2 | Accessible Combobox — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/02-accessible-combobox-scenario.md` | ⬜ |
-| 3 | Live Region Announcements for Async Updates | `phase-09-accessibility-scenarios/03-live-region-async-announcements.md` | ⬜ |
-| 4 | Keyboard Trap Bug — Find and Fix | `phase-09-accessibility-scenarios/04-keyboard-trap-bug-fix.md` | ⬜ |
-| 5 | Designer Pushback on Color Contrast — How You Handle It | `phase-09-accessibility-scenarios/05-designer-pushback-on-color-contrast.md` | ⬜ |
-| 6 | Auditing an Existing App for Accessibility | `phase-09-accessibility-scenarios/06-auditing-an-app-for-accessibility.md` | ⬜ |
-| 7 | Accessible Drag-and-Drop Alternative for Keyboard Users | `phase-09-accessibility-scenarios/07-accessible-drag-and-drop-alternative.md` | ⬜ |
+| 1 | Accessible Modal — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/01-accessible-modal-scenario.md` | ✅ |
+| 2 | Accessible Combobox — Full Scenario Walkthrough | `phase-09-accessibility-scenarios/02-accessible-combobox-scenario.md` | ✅ |
+| 3 | Live Region Announcements for Async Updates | `phase-09-accessibility-scenarios/03-live-region-async-announcements.md` | ✅ |
+| 4 | Keyboard Trap Bug — Find and Fix | `phase-09-accessibility-scenarios/04-keyboard-trap-bug-fix.md` | ✅ |
+| 5 | Designer Pushback on Color Contrast — How You Handle It | `phase-09-accessibility-scenarios/05-designer-pushback-on-color-contrast.md` | ✅ |
+| 6 | Auditing an Existing App for Accessibility | `phase-09-accessibility-scenarios/06-auditing-an-app-for-accessibility.md` | ✅ |
+| 7 | Accessible Drag-and-Drop Alternative for Keyboard Users | `phase-09-accessibility-scenarios/07-accessible-drag-and-drop-alternative.md` | ✅ |
 
 ### Phase 10 — Security Scenarios (6 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Stored XSS Found in Production | `phase-10-security-scenarios/01-stored-xss-found-in-production.md` | ⬜ |
+| 1 | Stored XSS Found in Production | `phase-10-security-scenarios/01-stored-xss-found-in-production.md` | 👉 **Next** |
 | 2 | Auth Token Storage — a Breach Scenario | `phase-10-security-scenarios/02-auth-token-storage-breach-scenario.md` | ⬜ |
 | 3 | Open Redirect Found in Code Review | `phase-10-security-scenarios/03-open-redirect-in-code-review.md` | ⬜ |
 | 4 | Third-party Script Breaks Your CSP | `phase-10-security-scenarios/04-third-party-script-breaks-csp.md` | ⬜ |

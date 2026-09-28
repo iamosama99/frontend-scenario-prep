@@ -201,13 +201,13 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > Real-world a11y failures and the fixes — plus the softer scenario of pushing back on design/product.
 
-- [ ] [Accessible Modal — Full Scenario Walkthrough](phase-09-accessibility-scenarios/01-accessible-modal-scenario.md)
-- [ ] [Accessible Combobox — Full Scenario Walkthrough](phase-09-accessibility-scenarios/02-accessible-combobox-scenario.md)
-- [ ] [Live Region Announcements for Async Updates](phase-09-accessibility-scenarios/03-live-region-async-announcements.md)
-- [ ] [Keyboard Trap Bug — Find and Fix](phase-09-accessibility-scenarios/04-keyboard-trap-bug-fix.md)
-- [ ] [Designer Pushback on Color Contrast — How You Handle It](phase-09-accessibility-scenarios/05-designer-pushback-on-color-contrast.md)
-- [ ] [Auditing an Existing App for Accessibility](phase-09-accessibility-scenarios/06-auditing-an-app-for-accessibility.md)
-- [ ] [Accessible Drag-and-Drop Alternative for Keyboard Users](phase-09-accessibility-scenarios/07-accessible-drag-and-drop-alternative.md)
+- [x] [Accessible Modal — Full Scenario Walkthrough](phase-09-accessibility-scenarios/01-accessible-modal-scenario.md)
+- [x] [Accessible Combobox — Full Scenario Walkthrough](phase-09-accessibility-scenarios/02-accessible-combobox-scenario.md)
+- [x] [Live Region Announcements for Async Updates](phase-09-accessibility-scenarios/03-live-region-async-announcements.md)
+- [x] [Keyboard Trap Bug — Find and Fix](phase-09-accessibility-scenarios/04-keyboard-trap-bug-fix.md)
+- [x] [Designer Pushback on Color Contrast — How You Handle It](phase-09-accessibility-scenarios/05-designer-pushback-on-color-contrast.md)
+- [x] [Auditing an Existing App for Accessibility](phase-09-accessibility-scenarios/06-auditing-an-app-for-accessibility.md)
+- [x] [Accessible Drag-and-Drop Alternative for Keyboard Users](phase-09-accessibility-scenarios/07-accessible-drag-and-drop-alternative.md)
 
 ---
 
