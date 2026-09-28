@@ -215,12 +215,12 @@ Every scenario is framed the way an interviewer would actually say it — a prom
 
 > "You found this in production. What do you do?" Incident response as much as prevention.
 
-- [ ] [Stored XSS Found in Production](phase-10-security-scenarios/01-stored-xss-found-in-production.md)
-- [ ] [Auth Token Storage — a Breach Scenario](phase-10-security-scenarios/02-auth-token-storage-breach-scenario.md)
-- [ ] [Open Redirect Found in Code Review](phase-10-security-scenarios/03-open-redirect-in-code-review.md)
-- [ ] [Third-party Script Breaks Your CSP](phase-10-security-scenarios/04-third-party-script-breaks-csp.md)
-- [ ] [Clickjacking Risk on an Embeddable Widget](phase-10-security-scenarios/05-clickjacking-embeddable-widget.md)
-- [ ] [Dependency With a Known CVE in Production](phase-10-security-scenarios/06-dependency-cve-in-production-response.md)
+- [x] [Stored XSS Found in Production](phase-10-security-scenarios/01-stored-xss-found-in-production.md)
+- [x] [Auth Token Storage — a Breach Scenario](phase-10-security-scenarios/02-auth-token-storage-breach-scenario.md)
+- [x] [Open Redirect Found in Code Review](phase-10-security-scenarios/03-open-redirect-in-code-review.md)
+- [x] [Third-party Script Breaks Your CSP](phase-10-security-scenarios/04-third-party-script-breaks-csp.md)
+- [x] [Clickjacking Risk on an Embeddable Widget](phase-10-security-scenarios/05-clickjacking-embeddable-widget.md)
+- [x] [Dependency With a Known CVE in Production](phase-10-security-scenarios/06-dependency-cve-in-production-response.md)
 
 ---
 

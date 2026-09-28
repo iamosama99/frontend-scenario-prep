@@ -314,18 +314,18 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Stored XSS Found in Production | `phase-10-security-scenarios/01-stored-xss-found-in-production.md` | 👉 **Next** |
-| 2 | Auth Token Storage — a Breach Scenario | `phase-10-security-scenarios/02-auth-token-storage-breach-scenario.md` | ⬜ |
-| 3 | Open Redirect Found in Code Review | `phase-10-security-scenarios/03-open-redirect-in-code-review.md` | ⬜ |
-| 4 | Third-party Script Breaks Your CSP | `phase-10-security-scenarios/04-third-party-script-breaks-csp.md` | ⬜ |
-| 5 | Clickjacking Risk on an Embeddable Widget | `phase-10-security-scenarios/05-clickjacking-embeddable-widget.md` | ⬜ |
-| 6 | Dependency With a Known CVE in Production | `phase-10-security-scenarios/06-dependency-cve-in-production-response.md` | ⬜ |
+| 1 | Stored XSS Found in Production | `phase-10-security-scenarios/01-stored-xss-found-in-production.md` | ✅ |
+| 2 | Auth Token Storage — a Breach Scenario | `phase-10-security-scenarios/02-auth-token-storage-breach-scenario.md` | ✅ |
+| 3 | Open Redirect Found in Code Review | `phase-10-security-scenarios/03-open-redirect-in-code-review.md` | ✅ |
+| 4 | Third-party Script Breaks Your CSP | `phase-10-security-scenarios/04-third-party-script-breaks-csp.md` | ✅ |
+| 5 | Clickjacking Risk on an Embeddable Widget | `phase-10-security-scenarios/05-clickjacking-embeddable-widget.md` | ✅ |
+| 6 | Dependency With a Known CVE in Production | `phase-10-security-scenarios/06-dependency-cve-in-production-response.md` | ✅ |
 
 ### Phase 11 — Testing Strategy Scenarios (6 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Flaky E2E Test — Triage and Fix | `phase-11-testing-strategy-scenarios/01-flaky-e2e-test-triage.md` | ⬜ |
+| 1 | Flaky E2E Test — Triage and Fix | `phase-11-testing-strategy-scenarios/01-flaky-e2e-test-triage.md` | 👉 **Next** |
 | 2 | "How Would You Test This Component?" Exercise | `phase-11-testing-strategy-scenarios/02-how-would-you-test-this-component.md` | ⬜ |
 | 3 | Testing a Race-condition-prone Async Component | `phase-11-testing-strategy-scenarios/03-testing-a-race-condition-prone-component.md` | ⬜ |
 | 4 | Mocking the Network Layer for Integration Tests (MSW) | `phase-11-testing-strategy-scenarios/04-mocking-network-layer-msw.md` | ⬜ |
