@@ -325,36 +325,36 @@ Legend: ✅ Done | ⬜ Not started | 👉 **Next up**
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Flaky E2E Test — Triage and Fix | `phase-11-testing-strategy-scenarios/01-flaky-e2e-test-triage.md` | 👉 **Next** |
-| 2 | "How Would You Test This Component?" Exercise | `phase-11-testing-strategy-scenarios/02-how-would-you-test-this-component.md` | ⬜ |
-| 3 | Testing a Race-condition-prone Async Component | `phase-11-testing-strategy-scenarios/03-testing-a-race-condition-prone-component.md` | ⬜ |
-| 4 | Mocking the Network Layer for Integration Tests (MSW) | `phase-11-testing-strategy-scenarios/04-mocking-network-layer-msw.md` | ⬜ |
-| 5 | Visual Regression False Positives — Handling Them | `phase-11-testing-strategy-scenarios/05-visual-regression-false-positives.md` | ⬜ |
-| 6 | Testing an Accessibility Requirement | `phase-11-testing-strategy-scenarios/06-testing-accessibility-requirements.md` | ⬜ |
+| 1 | Flaky E2E Test — Triage and Fix | `phase-11-testing-strategy-scenarios/01-flaky-e2e-test-triage.md` | ✅ |
+| 2 | "How Would You Test This Component?" Exercise | `phase-11-testing-strategy-scenarios/02-how-would-you-test-this-component.md` | ✅ |
+| 3 | Testing a Race-condition-prone Async Component | `phase-11-testing-strategy-scenarios/03-testing-a-race-condition-prone-component.md` | ✅ |
+| 4 | Mocking the Network Layer for Integration Tests (MSW) | `phase-11-testing-strategy-scenarios/04-mocking-network-layer-msw.md` | ✅ |
+| 5 | Visual Regression False Positives — Handling Them | `phase-11-testing-strategy-scenarios/05-visual-regression-false-positives.md` | ✅ |
+| 6 | Testing an Accessibility Requirement | `phase-11-testing-strategy-scenarios/06-testing-accessibility-requirements.md` | ✅ |
 
 ### Phase 12 — Architecture, Migration & Engineering Judgment (8 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Migrating a Legacy jQuery/AngularJS App to React — Incrementally | `phase-12-architecture-migration-judgment/01-migrating-legacy-jquery-angularjs-to-react.md` | ⬜ |
-| 2 | Migrating a CSR App to SSR for SEO | `phase-12-architecture-migration-judgment/02-migrating-csr-to-ssr-for-seo.md` | ⬜ |
-| 3 | Introducing TypeScript to a Large Untyped JS Codebase | `phase-12-architecture-migration-judgment/03-introducing-typescript-to-large-js-codebase.md` | ⬜ |
-| 4 | Monolith Frontend to Micro-frontends — When and How | `phase-12-architecture-migration-judgment/04-monolith-to-micro-frontends.md` | ⬜ |
-| 5 | Choosing a Rendering Strategy for a New Product | `phase-12-architecture-migration-judgment/05-choosing-rendering-strategy-for-new-product.md` | ⬜ |
-| 6 | Handling a Breaking API Change From Another Team | `phase-12-architecture-migration-judgment/06-handling-a-breaking-api-change-from-another-team.md` | ⬜ |
-| 7 | Rolling Out a Risky Refactor Without Breaking Prod | `phase-12-architecture-migration-judgment/07-rolling-out-risky-refactor-without-breaking-prod.md` | ⬜ |
-| 8 | Reviewing a PR With a Subtle Race Condition | `phase-12-architecture-migration-judgment/08-reviewing-a-pr-with-a-subtle-race-condition.md` | ⬜ |
+| 1 | Migrating a Legacy jQuery/AngularJS App to React — Incrementally | `phase-12-architecture-migration-judgment/01-migrating-legacy-jquery-angularjs-to-react.md` | ✅ |
+| 2 | Migrating a CSR App to SSR for SEO | `phase-12-architecture-migration-judgment/02-migrating-csr-to-ssr-for-seo.md` | ✅ |
+| 3 | Introducing TypeScript to a Large Untyped JS Codebase | `phase-12-architecture-migration-judgment/03-introducing-typescript-to-large-js-codebase.md` | ✅ |
+| 4 | Monolith Frontend to Micro-frontends — When and How | `phase-12-architecture-migration-judgment/04-monolith-to-micro-frontends.md` | ✅ |
+| 5 | Choosing a Rendering Strategy for a New Product | `phase-12-architecture-migration-judgment/05-choosing-rendering-strategy-for-new-product.md` | ✅ |
+| 6 | Handling a Breaking API Change From Another Team | `phase-12-architecture-migration-judgment/06-handling-a-breaking-api-change-from-another-team.md` | ✅ |
+| 7 | Rolling Out a Risky Refactor Without Breaking Prod | `phase-12-architecture-migration-judgment/07-rolling-out-risky-refactor-without-breaking-prod.md` | ✅ |
+| 8 | Reviewing a PR With a Subtle Race Condition | `phase-12-architecture-migration-judgment/08-reviewing-a-pr-with-a-subtle-race-condition.md` | ✅ |
 
 ### Phase 13 — AI-integrated Frontend Scenarios (6 scenarios)
 
 | # | Scenario | File | Status |
 |---|----------|------|--------|
-| 1 | Streaming an LLM Chat Response Into the UI | `phase-13-ai-integrated-frontend/01-streaming-llm-chat-response-into-ui.md` | ⬜ |
-| 2 | Choosing SSE vs. WebSocket for a Real-time Feature | `phase-13-ai-integrated-frontend/02-choosing-sse-vs-websocket-for-realtime-feature.md` | ⬜ |
-| 3 | Rendering Streaming Markdown/Code Safely | `phase-13-ai-integrated-frontend/03-rendering-streaming-markdown-safely.md` | ⬜ |
-| 4 | Cancelling a Long-running AI Request Cleanly | `phase-13-ai-integrated-frontend/04-cancelling-a-long-running-ai-request.md` | ⬜ |
-| 5 | Designing UI for Agentic / Tool-use Flows | `phase-13-ai-integrated-frontend/05-designing-ui-for-agentic-tool-use-flows.md` | ⬜ |
-| 6 | Handling AI Latency and Failure Gracefully in the UI | `phase-13-ai-integrated-frontend/06-handling-ai-latency-and-failure-gracefully.md` | ⬜ |
+| 1 | Streaming an LLM Chat Response Into the UI | `phase-13-ai-integrated-frontend/01-streaming-llm-chat-response-into-ui.md` | ✅ |
+| 2 | Choosing SSE vs. WebSocket for a Real-time Feature | `phase-13-ai-integrated-frontend/02-choosing-sse-vs-websocket-for-realtime-feature.md` | ✅ |
+| 3 | Rendering Streaming Markdown/Code Safely | `phase-13-ai-integrated-frontend/03-rendering-streaming-markdown-safely.md` | ✅ |
+| 4 | Cancelling a Long-running AI Request Cleanly | `phase-13-ai-integrated-frontend/04-cancelling-a-long-running-ai-request.md` | ✅ |
+| 5 | Designing UI for Agentic / Tool-use Flows | `phase-13-ai-integrated-frontend/05-designing-ui-for-agentic-tool-use-flows.md` | ✅ |
+| 6 | Handling AI Latency and Failure Gracefully in the UI | `phase-13-ai-integrated-frontend/06-handling-ai-latency-and-failure-gracefully.md` | ✅ |
 
 ---
 
